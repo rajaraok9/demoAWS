@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM amazoncorretto:17
 
 ADD target/demoAWS-0.0.1-SNAPSHOT.jar demoAWS-0.0.1-SNAPSHOT.jar
 
